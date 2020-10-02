@@ -1,0 +1,3 @@
+[submodule "modules/godot-orecs"]
+	path = modules/godot-orecs
+	url = git@github.com:orgrinrt/godot-orecs.git
